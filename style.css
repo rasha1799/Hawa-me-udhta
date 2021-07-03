@@ -1,7 +1,15 @@
 h1{
     background-color: coral;
+    text-align: center;
     color: darkolivegreen;
     border-radius: 20px;
-    padding: auto;
+    padding left: 2em;
     margin: 20px;
+    
+}
+h2{
+    color: deepskyblue;
+    text-align: center;
+    font-family: fantasy;
+
 }
